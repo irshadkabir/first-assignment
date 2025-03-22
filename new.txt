@@ -1,2 +1,6 @@
 I have a added a new feauture.
+
 Updated finction in branch1
+
+Updated feautures in branch2
+
